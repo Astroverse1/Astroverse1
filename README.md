@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend frameworks(flask).
 - 💞️ I’m looking to collaborate on building innovative apps and large scale projects in the fields I'm interested in.
 - 📫 How to reach me at Taresy.dev@gmail.com
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a perfectionist, and sometimes its a drag 😣😂
 
 <!---
