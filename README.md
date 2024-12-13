@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Astroverse1
+- 👋 Hi, I’m Williams Trust
 - 👀 I’m interested in web and app development, blockchain engineering and the web3 space.
 - 🌱 I’m currently learning backend frameworks(flask).
 - 💞️ I’m looking to collaborate on building innovative apps and large scale projects in the fields I'm interested in.
